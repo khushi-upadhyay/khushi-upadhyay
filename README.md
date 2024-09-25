@@ -12,13 +12,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushi-upadhyay-7a16a1225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-upadhyay-7a16a1225" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/ku9780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ku9780" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.x.com/khushiupad96039" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/x--v2.png" alt="khushiupad96039" height="30" width="40" /></a>
-
-</p>
 
 <div align="center">
   <h3>Most Used Languages:</h3>
