@@ -102,10 +102,6 @@
    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
    </a> 
-  
-
-
-
 </p>
 
 
@@ -121,8 +117,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-upadhyay&theme=tokyonight&ring=8A2BE2&fire=9370DB&currStreakLabel=9370DB&dates=FFFFFF" alt="GitHub Streak Stats" style="width: 500px; height: 300px;" />
 </div>
-
-
 
 <h1 align="center">Visits:</h1>
 <p align="center">
